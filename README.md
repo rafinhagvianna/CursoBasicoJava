@@ -1,6 +1,6 @@
 # Repositório de Exercícios de Java
 
-Este repositório contém uma coleção de exercícios de Java, abrangendo desde os conceitos mais básicos da linguagem até os fundamentos da programação orientada a objetos. O objetivo deste repositório é fornecer uma série de desafios para ajudar iniciantes e desenvolvedores em nível intermediário a praticar e aprimorar suas habilidades em Java.
+Este repositório contém uma coleção de exercícios de Java, realizados durante minha estadia no Senai de Londrina , abrangendo desde os conceitos mais básicos da linguagem até os fundamentos da programação orientada a objetos. O objetivo deste repositório é fornecer uma série de desafios para ajudar iniciantes e desenvolvedores em nível intermediário a praticar e aprimorar suas habilidades em Java.
 
 ## Estrutura do Repositório
 
