@@ -1,0 +1,6 @@
+public class ex19 {
+    public static void main(String[] args) {
+        System.out.println("Este exercício ja foi resolvido");
+
+    }
+}
